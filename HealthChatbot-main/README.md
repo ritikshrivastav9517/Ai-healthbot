@@ -52,10 +52,5 @@ We have used Decision tree for our health care based chat bot.
 Decision Tree is a Supervised learning technique that can be used for both classification and Regression problems, but mostly it is preferred for solving Classification problems. It is a tree-structured classifier, where internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome.It usually mimic human thinking ability while making a decision, so it is easy to understand.
 
 
-## :suspect: Project Members
 
-- Anushka Bansal - 500067844 - R164218014
-- Shreya Sharma - 500068573 - R164218070
-- Silvi - 500069092 - R164218072
-- Ishika Agrawal - 500071154 - R164218097
 
